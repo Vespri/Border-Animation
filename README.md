@@ -1,4 +1,4 @@
-# CSS-Border-Animation
+# Border-Animation
 This is my exercise about CSS
 
 # GIF
